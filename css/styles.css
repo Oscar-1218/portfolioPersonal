@@ -11456,7 +11456,7 @@ header.masthead h1, header.masthead .h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
-/* Agregados */
+/* Agregados forMy */
 
 .botonera{
   margin-top: 8px;
@@ -11483,10 +11483,13 @@ header.masthead h1, header.masthead .h1 {
     font-size: 19px;
   }
 
-}
+} 
 @media(min-width:600px){
   .page-section{
     padding: 6rem 0;
   }
 
+}
+.fotomia{
+  border-radius: 5px;
 }
