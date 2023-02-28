@@ -1,0 +1,1 @@
+Es un portfolio personal, dentro de este tengo mis proyectos mas detacados.
